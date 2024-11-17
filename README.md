@@ -19,7 +19,6 @@
 ![image](https://github.com/user-attachments/assets/7c451546-1dc4-4da8-b5c7-507be282ed5c)
 
 
-
 ## Setup Awal:
 ### Paradis
 ```
